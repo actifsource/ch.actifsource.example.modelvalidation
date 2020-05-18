@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="9031e2fc-9916-11ea-8568-8df113ebd62f">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="9031e34c-9916-11ea-8568-8df113ebd62f" type="resource" guid="9031e30e-9916-11ea-8568-8df113ebd62f" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9031e30f-9916-11ea-8568-8df113ebd62f" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9031e310-9916-11ea-8568-8df113ebd62f" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+    <object statement-guid="9031e311-9916-11ea-8568-8df113ebd62f" type="resource" guid="d2e41148-feae-11de-b623-05edcc99ed4a" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9031e344-9916-11ea-8568-8df113ebd62f" type="literal">Root</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9031e34c-9916-11ea-8568-8df113ebd62f">
+      <resource guid="9031e30e-9916-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="9031e349-9916-11ea-8568-8df113ebd62f" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="9031e34a-9916-11ea-8568-8df113ebd62f" type="literal">ch.actifsource.example.modelvalidation.RootValidation</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="9031e34b-9916-11ea-8568-8df113ebd62f" type="resource" guid="96b3624d-22f2-11db-b87d-39b85b0bccf3" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

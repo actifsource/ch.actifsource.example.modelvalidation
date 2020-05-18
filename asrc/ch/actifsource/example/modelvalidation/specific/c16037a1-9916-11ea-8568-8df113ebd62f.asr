@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c16037a1-9916-11ea-8568-8df113ebd62f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="c16037a3-9916-11ea-8568-8df113ebd62f" type="resource" guid="9031e2fc-9916-11ea-8568-8df113ebd62f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="c16037a4-9916-11ea-8568-8df113ebd62f" type="literal">Root_A</object>
+  </predicate>
+</resource>
+
