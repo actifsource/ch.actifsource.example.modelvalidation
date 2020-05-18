@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource format="5.6.0" guid="c16037a1-9916-11ea-8568-8df113ebd62f">
+  <owns predicate="56a8cfd9-9918-11ea-8568-8df113ebd62f">
+    <resource statement-guid="65a2471b-9918-11ea-8568-8df113ebd62f" type="resource" guid="65a24718-9918-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="69f17d02-9918-11ea-8568-8df113ebd62f" type="resource" guid="69f17cfe-9918-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="6a763d67-9918-11ea-8568-8df113ebd62f" type="resource" guid="6a763d63-9918-11ea-8568-8df113ebd62f" />
+  </owns>
   <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="c16037a3-9916-11ea-8568-8df113ebd62f" type="resource" guid="9031e2fc-9916-11ea-8568-8df113ebd62f" />
   </predicate>
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="c16037a4-9916-11ea-8568-8df113ebd62f" type="literal">Root_A</object>
+  </predicate>
+  <predicate guid="56a8cfd9-9918-11ea-8568-8df113ebd62f">
+    <object statement-guid="65a2471b-9918-11ea-8568-8df113ebd62f">
+      <resource guid="65a24718-9918-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="65a2471a-9918-11ea-8568-8df113ebd62f" type="resource" guid="53d27e3b-9918-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="660b692c-9918-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+        </predicate>
+        <predicate guid="5d8fc7a1-9918-11ea-8568-8df113ebd62f">
+          <object statement-guid="68b2945d-9918-11ea-8568-8df113ebd62f" type="literal">1</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="69f17d02-9918-11ea-8568-8df113ebd62f">
+      <resource guid="69f17cfe-9918-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="69f17cff-9918-11ea-8568-8df113ebd62f" type="resource" guid="53d27e3b-9918-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="69f17d00-9918-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+        </predicate>
+        <predicate guid="5d8fc7a1-9918-11ea-8568-8df113ebd62f">
+          <object statement-guid="69f17d01-9918-11ea-8568-8df113ebd62f" type="literal">2</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="6a763d67-9918-11ea-8568-8df113ebd62f">
+      <resource guid="6a763d63-9918-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6a763d64-9918-11ea-8568-8df113ebd62f" type="resource" guid="53d27e3b-9918-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6a763d65-9918-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+        </predicate>
+        <predicate guid="5d8fc7a1-9918-11ea-8568-8df113ebd62f">
+          <object statement-guid="6a763d66-9918-11ea-8568-8df113ebd62f" type="literal">3</object>
+        </predicate>
+      </resource>
+    </object>
   </predicate>
 </resource>
 
