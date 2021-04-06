@@ -31,7 +31,7 @@
           <object statement-guid="69f17cff-9918-11ea-8568-8df113ebd62f" type="resource" guid="53d27e3b-9918-11ea-8568-8df113ebd62f" />
         </predicate>
         <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-          <object statement-guid="69f17d00-9918-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+          <object statement-guid="69f17d00-9918-11ea-8568-8df113ebd62f" type="literal">Child_2</object>
         </predicate>
         <predicate guid="5d8fc7a1-9918-11ea-8568-8df113ebd62f">
           <object statement-guid="69f17d01-9918-11ea-8568-8df113ebd62f" type="literal">2</object>
@@ -44,7 +44,7 @@
           <object statement-guid="6a763d64-9918-11ea-8568-8df113ebd62f" type="resource" guid="53d27e3b-9918-11ea-8568-8df113ebd62f" />
         </predicate>
         <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-          <object statement-guid="6a763d65-9918-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+          <object statement-guid="6a763d65-9918-11ea-8568-8df113ebd62f" type="literal">Child_3</object>
         </predicate>
         <predicate guid="5d8fc7a1-9918-11ea-8568-8df113ebd62f">
           <object statement-guid="6a763d66-9918-11ea-8568-8df113ebd62f" type="literal">3</object>
