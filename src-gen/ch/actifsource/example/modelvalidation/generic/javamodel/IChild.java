@@ -12,4 +12,4 @@ public interface IChild extends ch.actifsource.core.javamodel.INamedResource {
   
 }
 
-/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,53d27e3b-9918-11ea-8568-8df113ebd62f,Q1yY4w0FSE3mbhenkUbSCxbxR+M=] */
+/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,53d27e3b-9918-11ea-8568-8df113ebd62f,AqjijRYx9zsk2fPS35I1wZRbr20=] */
