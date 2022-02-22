@@ -11,6 +11,10 @@
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="c16037a4-9916-11ea-8568-8df113ebd62f" type="literal">Root_A</object>
   </predicate>
+  <predicate guid="80ff75d8-e648-11da-90a0-f358fdc0051b">
+    <object statement-guid="191e1cf8-93da-11ec-b75b-f973e2396ae1" type="literal">Root extends AnnotableComment:
+TODO Use annotations to show message inside model inconsistencies</object>
+  </predicate>
   <predicate guid="56a8cfd9-9918-11ea-8568-8df113ebd62f">
     <object statement-guid="65a2471b-9918-11ea-8568-8df113ebd62f">
       <resource guid="65a24718-9918-11ea-8568-8df113ebd62f">
